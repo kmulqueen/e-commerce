@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/kmulqueen/e-commerce#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.3",
+    "passport": "^0.4.0",
+    "react-router": "^5.0.0"
   }
 }

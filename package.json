@@ -18,9 +18,14 @@
   "homepage": "https://github.com/kmulqueen/e-commerce#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.3",
     "passport": "^0.4.0",
-    "react-router": "^5.0.0"
+    "passport-jwt": "^4.0.0",
+    "react-router": "^5.0.0",
+    "validator": "^10.11.0"
   }
 }
